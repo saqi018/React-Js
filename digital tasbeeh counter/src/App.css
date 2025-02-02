@@ -1,0 +1,55 @@
+
+#tasbeeh {
+  color: #c60a0a;
+  background-image: url(assets/image.png);
+  background-size: 100%;
+  width: 300px;
+  height: 300px;
+  margin: 100px auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  font-size: 40px;
+  filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.25));
+  
+}
+
+#tasbeeh h3 {
+  margin: 60px 0px 0px 68px;
+  position: absolute;
+  color: #000000;
+  font-size: 47px;
+}
+
+#tasbeeh .count {
+  border: #000000 1px solid;
+  background-color: #dfdfdf;
+  border-radius: 100%;
+  margin: 188px 0px 0px 113px;
+  width: 75px;
+  height: 75px;
+}
+
+#tasbeeh .count:hover{
+
+  background-color: #ababab;
+
+}
+
+
+#tasbeeh .reset {
+  border: #000000 1px solid;
+  background-color: #dfdfdf;
+  border-radius: 100%;
+ margin: -112px 0px 0px 198px;
+  width: 23px;
+  height: 23px;
+  display: block;
+}
+
+#tasbeeh .reset:hover{
+
+  background-color: #ababab;
+
+}
+
